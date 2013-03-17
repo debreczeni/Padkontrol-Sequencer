@@ -1,9 +1,9 @@
-#Korg padKONTROL KPK-1 audio sample sequencer for Max/MSP 5
+#Korg padKONTROL KPK-1 audio sample sequencer for Max/MSP 5 / 6
 
 ##Step by step guide using the padkontrol sequencer:
 
 - Turn on your padKONTROL.
-- Launch Max 5.
+- Launch Max.
 - Open _padkontrol.maxpat.
 - Click the _Set_ button if the ports has not been set automatically or set them using the dropdowns to __padKONTROL PORT A__ for input and __padKONTROL CTRL__ for output.
 - The 7 segment LEDs on your padkontrol should now go off.
